@@ -1,6 +1,17 @@
 # Master-thesis
 Master thesis at Elektroinstutionen Lund
 
+## Info
+This repo is not complete and will be updated when the different scripts have been cleaned up.
+Things to look forward to:
+- Implemented machine learning models
+- Data generation scripts
+- Data analysis scripts
+- Figures
+- Crypto attack script
+- Finished paper
+- Much more
+
 
 ### Acknowledgments
 - Whole of HQC implementation found in wrapper/verilog/decaps was implemented by HQC team and can be found on [HQC website](https://pqc-hqc.org/resources.html)
