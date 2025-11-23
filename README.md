@@ -2,6 +2,8 @@
 Master thesis at Elektroinstutionen Lund
 
 ## Info
+The system is made to be run on a ChipWhisperer CW305 Artix-7 FPGA board. This can easily be changed to be used on other FPGAs by re-routing the pins described in wrapper/verilog/constraints.xdc.
+
 This repo is not complete and will be updated when the different scripts have been cleaned up.
 Things to look forward to:
 - Implemented machine learning models
@@ -11,7 +13,6 @@ Things to look forward to:
 - Crypto attack script
 - Finished paper
 - Much more
-
 
 ### Acknowledgments
 - Whole of HQC implementation found in wrapper/verilog/decaps was implemented by HQC team and can be found on [HQC website](https://pqc-hqc.org/resources.html)
